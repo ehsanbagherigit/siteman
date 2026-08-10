@@ -1,1 +1,15 @@
-host: 0.0.0.0
+# سایت شما
+title: siteman
+description: "jojo"
+url: "https://ehsanbagherigit.github.io"
+baseurl: "/siteman"  # چون اسم ریپازیتوری siteman هست
+
+# نویسنده
+author:
+  name: ehsanbagherigit
+  email: [ایمیل خود را وارد کنید]
+  github_username: ehsanbagherigit
+  # twitter_username:  # اگر ندارید خالی بگذارید یا خط را کامنت کنید
+
+# تنظیمات ظاهری (اختیاری)
+# logo: /assets/images/logo.png  # اگر لوگو ندارید کامنت کنید
